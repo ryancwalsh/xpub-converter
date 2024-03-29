@@ -26,8 +26,9 @@
     "unit": "tape test/*.js"
   },
   "dependencies": {
-    "bs58check": "^2.1.2",
-    "bip32": "^2.0.5"
+    "bip32": "^2.0.5",
+    "browserify": "^17.0.0",
+    "bs58check": "^2.1.2"
   },
   "devDependencies": {
     "@babel/core": "^7.11.6",
